@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#773392</color>
+    <color name="colorPrimaryDark">#4A148C</color>
+    <color name="colorAccent">#773392</color>
+    <color name="white">#ffffff</color>
+    <color name="reclycle_view_background">#bcbcbc</color>
+    <color name="black">#000000</color>
+    <color name="menuIconColor">#ED5480</color>
+    <color name="drawerHeader">#ED5480</color>
+    <color name="lightColorIcon">#565656</color>
+</resources>
